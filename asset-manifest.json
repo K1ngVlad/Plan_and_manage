@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Plan_and_manage/static/css/main.cc201032.css",
-    "main.js": "/Plan_and_manage/static/js/main.e2909cfc.js",
+    "main.js": "/Plan_and_manage/static/js/main.ae18c788.js",
     "static/media/15.svg": "/Plan_and_manage/static/media/15.defcecaffc0a12d2d6b466ce35bf17e7.svg",
     "static/media/Blog img1.svg": "/Plan_and_manage/static/media/Blog img1.14d08a861a2ee6debe0a43814a436029.svg",
     "static/media/notMe.svg": "/Plan_and_manage/static/media/notMe.28070c75fd5fd451be4fb322b546284a.svg",
@@ -27,10 +27,10 @@
     "static/media/Vector 2.5.svg": "/Plan_and_manage/static/media/Vector 2.5.26e7836535654f7bf05f416cbb4defff.svg",
     "static/media/Vector 2.svg": "/Plan_and_manage/static/media/Vector 2.2befcec5b1c7ff5af6cbd1e222084cce.svg",
     "main.cc201032.css.map": "/Plan_and_manage/static/css/main.cc201032.css.map",
-    "main.e2909cfc.js.map": "/Plan_and_manage/static/js/main.e2909cfc.js.map"
+    "main.ae18c788.js.map": "/Plan_and_manage/static/js/main.ae18c788.js.map"
   },
   "entrypoints": [
     "static/css/main.cc201032.css",
-    "static/js/main.e2909cfc.js"
+    "static/js/main.ae18c788.js"
   ]
 }
